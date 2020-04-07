@@ -18,7 +18,7 @@ npm run build
 ### 项目接口-疫情实时动态接口数据源于新浪
 ```
 
-.接口路径：components\map.vue
+.接口路径：components\HelloWorld.vue
 ```
 
 ### 效果展示
